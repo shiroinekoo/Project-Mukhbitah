@@ -523,13 +523,14 @@ Ingin berkontribusi pada dokumentasi ini? Silakan baca **[Panduan Kontribusi](CO
 
 ---
 
-## 📞 Kontak & Dukungan
+## � Tim Pengembang
 
-Untuk pertanyaan tentang proyek atau dokumentasi ini:
+### 🏯 Gotei Ni
 
-**Project Lead**: TBD  
-**Email**: dev@mukhbitah.com  
-**GitHub**: [shiroinekoo/Mukhbitah](https://github.com/shiroinekoo/Mukhbitah)
+| Nama | NPM | Peran |
+|------|-----|-------|
+| **Hafiyyan Belvana Fayyaz Qinthara Amanullah** | 20231310032 | Management & Strategy · Technical Development |
+| **Audrian Ariel Aqsha** | 20231310042 | Design & Experience · Quality & Documentation |
 
 ---
 
