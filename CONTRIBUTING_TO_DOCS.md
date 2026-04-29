@@ -58,19 +58,19 @@ docs/
 ├── DOCUMENTATION_SUMMARY.md                     # Summary
 ├── CONTRIBUTING_TO_DOCS.md                      # File ini
 │
-├── 01-Software-Requirements-Specification/
+├── Software-Requirements-Specification/
 │   └── SRS.md                                   # Requirements
 │
-├── 02-Software-Design-Documentation/
+├── Software-Design-Documentation/
 │   └── SDD.md                                   # Design
 │
-├── 03-Software-Testing-Documentation/
+├── Software-Testing-Documentation/
 │   └── STD.md                                   # Testing
 │
-├── 04-Software-User-Documentation/
+├── Software-User-Documentation/
 │   └── USER_GUIDE.md                            # User Guide
 │
-└── 05-Test-Plan/
+└── Test-Plan/
     └── TEST_PLAN.md                             # Test Plan
 ```
 
@@ -257,7 +257,7 @@ Setiap dokumen memiliki Document Control section di akhir:
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 2026-04-30 | Development Team | Initial version |
+| 1.0 | 2026-04-02 | Development Team | Initial version |
 | 1.1 | 2026-05-15 | John Doe | Added new feature X |
 ```
 
@@ -327,7 +327,7 @@ Reviewer akan check:
 Gunakan konsisten:
 - **Frontend** (not Front-end or front end)
 - **Backend** (not Back-end or back end)
-- **E-commerce** (not ecommerce or e-Commerce)
+- **Gallery** (not gallery or GALLERY in prose)
 - **API** (all caps)
 - **ID** (not Id or id in prose)
 - **URL** (not url or Url)

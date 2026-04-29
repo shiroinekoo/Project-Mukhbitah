@@ -37,7 +37,7 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 ## 📑 Struktur Dokumen
 
 ### 1️⃣ Software Requirements Specification (SRS)
-📁 **Lokasi**: `01-Software-Requirements-Specification/SRS.md`  
+📁 **Lokasi**: `Software-Requirements-Specification/SRS.md`  
 🎯 **Status**: ✅ Selesai (Dokumen Perencanaan)
 
 **Deskripsi**: Spesifikasi lengkap seluruh kebutuhan fungsional dan non-fungsional yang *direncanakan* untuk platform Mukhbitah.
@@ -67,12 +67,12 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 
 **Target Pembaca**: Product Owner, Business Analyst, Developer, QA Engineer
 
-**[📖 Baca SRS →](01-Software-Requirements-Specification/SRS.md)**
+**[📖 Baca SRS →](Software-Requirements-Specification/SRS.md)**
 
 ---
 
 ### 2️⃣ Software Design Documentation (SDD)
-📁 **Lokasi**: `02-Software-Design-Documentation/SDD.md`  
+📁 **Lokasi**: `Software-Design-Documentation/SDD.md`  
 🎯 **Status**: ✅ Selesai (Dokumen Perencanaan)
 
 **Deskripsi**: Dokumentasi desain teknis yang mencakup arsitektur sistem, desain data, desain komponen, dan antarmuka yang *direncanakan*.
@@ -97,12 +97,12 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 
 **Target Pembaca**: Software Architect, Developer, Technical Lead
 
-**[📖 Baca SDD →](02-Software-Design-Documentation/SDD.md)**
+**[📖 Baca SDD →](Software-Design-Documentation/SDD.md)**
 
 ---
 
 ### 3️⃣ Software Testing Documentation (STD)
-📁 **Lokasi**: `03-Software-Testing-Documentation/STD.md`  
+📁 **Lokasi**: `Software-Testing-Documentation/STD.md`  
 🎯 **Status**: ✅ Selesai (Dokumen Perencanaan)
 
 **Deskripsi**: Dokumentasi pengujian komprehensif yang menguraikan strategi pengujian, kasus uji, dan pendekatan pengujian yang *direncanakan*.
@@ -126,12 +126,12 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 
 **Target Pembaca**: QA Engineer, Test Manager, Developer
 
-**[📖 Baca STD →](03-Software-Testing-Documentation/STD.md)**
+**[📖 Baca STD →](Software-Testing-Documentation/STD.md)**
 
 ---
 
 ### 4️⃣ Software User Documentation
-📁 **Lokasi**: `04-Software-User-Documentation/USER_GUIDE.md`  
+📁 **Lokasi**: `Software-User-Documentation/USER_GUIDE.md`  
 🎯 **Status**: ✅ Draft Selesai (Dokumen Perencanaan)
 
 **Deskripsi**: Draft panduan pengguna dalam Bahasa Indonesia untuk platform Mukhbitah yang *direncanakan*.
@@ -146,12 +146,12 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 
 **Target Pembaca**: Pengguna Akhir, Customer Support (Masa Depan)
 
-**[📖 Baca Panduan Pengguna →](04-Software-User-Documentation/USER_GUIDE.md)**
+**[📖 Baca Panduan Pengguna →](Software-User-Documentation/USER_GUIDE.md)**
 
 ---
 
 ### 5️⃣ Test Plan
-📁 **Lokasi**: `05-Test-Plan/TEST_PLAN.md`  
+📁 **Lokasi**: `Test-Plan/TEST_PLAN.md`  
 🎯 **Status**: ✅ Selesai (Dokumen Perencanaan)
 
 **Deskripsi**: Rencana pengujian komprehensif yang menguraikan strategi, jadwal, dan sumber daya pengujian untuk fase pengembangan mendatang.
@@ -172,7 +172,7 @@ Repositori ini berisi **dokumentasi perencanaan lengkap** untuk platform Mukhbit
 
 **Target Pembaca**: QA Lead, QA Engineer, Project Manager
 
-**[📖 Baca Test Plan →](05-Test-Plan/TEST_PLAN.md)**
+**[📖 Baca Test Plan →](Test-Plan/TEST_PLAN.md)**
 
 ---
 
@@ -419,19 +419,19 @@ docs/
 ├── DOCUMENTATION_SUMMARY.md                     # Ringkasan detail
 ├── CONTRIBUTING_TO_DOCS.md                      # Panduan kontribusi
 │
-├── 01-Software-Requirements-Specification/
+├── Software-Requirements-Specification/
 │   └── SRS.md                                   # Kebutuhan (~50 halaman)
 │
-├── 02-Software-Design-Documentation/
+├── Software-Design-Documentation/
 │   └── SDD.md                                   # Desain (~45 halaman)
 │
-├── 03-Software-Testing-Documentation/
+├── Software-Testing-Documentation/
 │   └── STD.md                                   # Pengujian (~40 halaman)
 │
-├── 04-Software-User-Documentation/
+├── Software-User-Documentation/
 │   └── USER_GUIDE.md                            # Draft Panduan Pengguna (~35 halaman)
 │
-└── 05-Test-Plan/
+└── Test-Plan/
     └── TEST_PLAN.md                             # Rencana Pengujian (~40 halaman)
 ```
 
@@ -440,18 +440,18 @@ docs/
 ## 🎯 Cara Menggunakan Dokumentasi Ini
 
 ### Untuk Stakeholder
-1. Tinjau **[SRS](01-Software-Requirements-Specification/SRS.md)** untuk memahami ruang lingkup proyek
-2. Periksa **[SDD](02-Software-Design-Documentation/SDD.md)** untuk pendekatan teknis
+1. Tinjau **[SRS](Software-Requirements-Specification/SRS.md)** untuk memahami ruang lingkup proyek
+2. Periksa **[SDD](Software-Design-Documentation/SDD.md)** untuk pendekatan teknis
 3. Tinjau **Roadmap Pengembangan** untuk timeline
 
 ### Untuk Tim Pengembang
-1. Pelajari **[SRS](01-Software-Requirements-Specification/SRS.md)** untuk kebutuhan sistem
-2. Ikuti **[SDD](02-Software-Design-Documentation/SDD.md)** sebagai panduan implementasi
-3. Referensikan **[Test Plan](05-Test-Plan/TEST_PLAN.md)** untuk standar kualitas
+1. Pelajari **[SRS](Software-Requirements-Specification/SRS.md)** untuk kebutuhan sistem
+2. Ikuti **[SDD](Software-Design-Documentation/SDD.md)** sebagai panduan implementasi
+3. Referensikan **[Test Plan](Test-Plan/TEST_PLAN.md)** untuk standar kualitas
 
 ### Untuk Tim QA
-1. Tinjau **[Test Plan](05-Test-Plan/TEST_PLAN.md)** untuk strategi pengujian
-2. Pelajari **[STD](03-Software-Testing-Documentation/STD.md)** untuk kasus uji
+1. Tinjau **[Test Plan](Test-Plan/TEST_PLAN.md)** untuk strategi pengujian
+2. Pelajari **[STD](Software-Testing-Documentation/STD.md)** untuk kasus uji
 3. Siapkan lingkungan pengujian berdasarkan spesifikasi
 
 ### Untuk Project Manager
@@ -550,7 +550,7 @@ Dokumentasi ini mengikuti standar industri:
 
 | Versi | Tanggal | Fase | Perubahan |
 |-------|---------|------|-----------|
-| 1.0 | 2026-04-30 | Perencanaan | Dokumentasi perencanaan awal selesai |
+| 1.0 | 2026-04-02 | Perencanaan | Dokumentasi perencanaan awal selesai |
 | 1.1 | TBD | Pengembangan | Akan diperbarui selama pengembangan |
 | 2.0 | TBD | Produksi | Dokumentasi final setelah deployment |
 
@@ -561,7 +561,7 @@ Dokumentasi ini mengikuti standar industri:
 **Fase Saat Ini**: 📋 Perencanaan & Dokumentasi  
 **Status Pengembangan**: ⏳ Belum Dimulai  
 **Versi**: 1.0  
-**Terakhir Diperbarui**: 30 April 2026
+**Terakhir Diperbarui**: 2 April 2026
 
 ---
 
