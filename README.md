@@ -1,6 +1,15 @@
 # 📚 Mukhbitah - Software Documentation
 
-**Hafiyyan Belvana Fayyaz Qinthara Amanullah** (20231310032) · **Audrian Ariel Aqsha** (20231310042)
+---
+
+## 🏯 Gotei Ni
+
+| Nama | NPM | Peran |
+|------|-----|-------|
+| **Hafiyyan Belvana Fayyaz Qinthara Amanullah** | 20231310032 | Management & Strategy · Technical Development |
+| **Audrian Ariel Aqsha** | 20231310042 | Design & Experience · Quality & Documentation |
+
+---
 
 ![Documentation](https://img.shields.io/badge/Documentation-Planning%20Phase-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Pre--Development-yellow?style=for-the-badge)
@@ -522,17 +531,6 @@ Ingin berkontribusi pada dokumentasi ini? Silakan baca **[Panduan Kontribusi](CO
 2. Sarankan perbaikan atau koreksi
 3. Kirim pull request
 4. Ikut serta dalam review
-
----
-
-## � Tim Pengembang
-
-### 🏯 Gotei Ni
-
-| Nama | NPM | Peran |
-|------|-----|-------|
-| **Hafiyyan Belvana Fayyaz Qinthara Amanullah** | 20231310032 | Management & Strategy · Technical Development |
-| **Audrian Ariel Aqsha** | 20231310042 | Design & Experience · Quality & Documentation |
 
 ---
 
