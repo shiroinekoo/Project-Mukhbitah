@@ -2,21 +2,21 @@
 
 ---
 
-## 🏯 Gotei Ni
-
-| Nama | NPM | Peran |
-|------|-----|-------|
-| **Hafiyyan Belvana Fayyaz Qinthara Amanullah** | 20231310032 | Management & Strategy · Technical Development |
-| **Audrian Ariel Aqsha** | 20231310042 | Design & Experience · Quality & Documentation |
-
----
-
 ![Documentation](https://img.shields.io/badge/Documentation-Planning%20Phase-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Pre--Development-yellow?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase-Planning%20Only-orange?style=for-the-badge)
 
 > **Dokumentasi perencanaan perangkat lunak untuk platform Mukhbitah Hijab Gallery**  
 > *Seluruh dokumen ini merupakan rencana dan spesifikasi — software belum mulai dikembangkan*
+
+---
+
+## 🏯 Gotei Ni
+
+| Nama | NPM | Peran |
+|------|-----|-------|
+| **Hafiyyan Belvana Fayyaz Qinthara Amanullah** | 20231310032 | Management & Strategy · Technical Development |
+| **Audrian Ariel Aqsha** | 20231310042 | Design & Experience · Quality & Documentation |
 
 ---
 
