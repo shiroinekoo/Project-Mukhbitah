@@ -1,5 +1,7 @@
 # 📚 Mukhbitah - Software Documentation
 
+**Hafiyyan Belvana Fayyaz Qinthara Amanullah** (20231310032) · **Audrian Ariel Aqsha** (20231310042)
+
 ![Documentation](https://img.shields.io/badge/Documentation-Planning%20Phase-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Pre--Development-yellow?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase-Planning%20Only-orange?style=for-the-badge)
