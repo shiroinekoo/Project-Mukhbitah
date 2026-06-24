@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with soft pink gradient -->
+  <rect width="180" height="180" rx="40" fill="#F5E6E8"/>
+  
+  <!-- Hijab silhouette -->
+  <path d="M90 35C67 35 50 52 50 75C50 80 51 85 53 89C54.5 92.5 57 97 60 101C63 105 66 109 69 113C72 117 75 121 78 125C81 129 84 133 87 137C88.5 139 90 141 90 141C90 141 91.5 139 93 137C96 133 99 129 102 125C105 121 108 117 111 113C114 109 117 105 120 101C123 97 125.5 92.5 127 89C129 85 130 80 130 75C130 52 113 35 90 35Z" fill="#F08080"/>
+  
+  <!-- Letter M with elegant serif font -->
+  <text x="90" y="115" font-family="Georgia, serif" font-size="80" font-weight="bold" fill="#FFFFFF" text-anchor="middle">M</text>
+  
+  <!-- Decorative flower -->
+  <circle cx="135" cy="135" r="18" fill="#FFB6C1"/>
+  <circle cx="135" cy="135" r="10" fill="#FFFFFF"/>
+  <circle cx="130" cy="130" r="4" fill="#F08080"/>
+  <circle cx="140" cy="130" r="4" fill="#F08080"/>
+  <circle cx="130" cy="140" r="4" fill="#F08080"/>
+  <circle cx="140" cy="140" r="4" fill="#F08080"/>
+</svg>

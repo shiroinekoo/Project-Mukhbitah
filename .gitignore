@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vscode/
+*.log
+.env
+.env.local
+.env.production
+Thumbs.db
+.DS_Store

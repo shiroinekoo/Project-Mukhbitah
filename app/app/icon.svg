@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with gradient -->
+  <circle cx="32" cy="32" r="32" fill="#F5E6E8"/>
+  
+  <!-- Hijab silhouette -->
+  <path d="M32 12C24 12 18 18 18 26C18 28 18.5 30 19.5 31.5C20 32.5 21 34 22 35C23 36 24 37 25 38C26 39 27 40 28 41C29 42 30 43 31 44C31.5 44.5 32 45 32 45C32 45 32.5 44.5 33 44C34 43 35 42 36 41C37 40 38 39 39 38C40 37 41 36 42 35C43 34 44 32.5 44.5 31.5C45.5 30 46 28 46 26C46 18 40 12 32 12Z" fill="#F08080"/>
+  
+  <!-- Letter M -->
+  <text x="32" y="40" font-family="serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">M</text>
+  
+  <!-- Small flower accent -->
+  <circle cx="48" cy="48" r="6" fill="#FFB6C1"/>
+  <circle cx="48" cy="48" r="3" fill="#FFFFFF"/>
+</svg>

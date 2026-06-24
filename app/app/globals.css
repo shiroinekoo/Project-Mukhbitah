@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #faf8f5;
+  --color-primary-100: #f5f1ea;
+  --color-primary-200: #e8dfd0;
+  --color-primary-300: #d9c9b0;
+  --color-primary-400: #c9b08f;
+  --color-primary-500: #b89770;
+  --color-primary-600: #a07d5c;
+  --color-primary-700: #86654b;
+  --color-primary-800: #6d5340;
+  --color-primary-900: #5a4536;
+  
+  --color-cream: #FAF8F5;
+  --color-beige: #E8DFD0;
+  --color-gold: #D4AF37;
+  --color-soft-pink: #F5E6E8;
+  
+  --font-family-playfair: 'Playfair Display', serif;
+  --font-family-poppins: 'Poppins', sans-serif;
+  
+  --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.08);
+  --shadow-soft-lg: 0 10px 40px rgba(0, 0, 0, 0.12);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-cream);
+    color: rgb(31 41 55);
+    font-family: var(--font-family-poppins);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-playfair);
+  }
+}
+
+
+@layer components {
+  .glass-card {
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: var(--shadow-soft);
+  }
+  
+  .btn-primary {
+    background-color: var(--color-primary-600);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: all 0.3s;
+    box-shadow: var(--shadow-soft);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--color-primary-700);
+    box-shadow: var(--shadow-soft-lg);
+  }
+  
+  .btn-secondary {
+    background-color: white;
+    color: var(--color-primary-700);
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: all 0.3s;
+    border: 1px solid var(--color-primary-200);
+  }
+  
+  .btn-secondary:hover {
+    background-color: rgb(249 250 251);
+  }
+}
+
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-primary-300);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary-400);
+}
